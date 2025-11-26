@@ -1,0 +1,28 @@
+{
+  "sr": 22050,
+  "duration": 4.0,
+  "max_len": 88200,
+  "n_mels": 128,
+  "hop_length": 512,
+  "n_fft": 2048,
+  "input_shape": [
+    128,
+    173,
+    1
+  ],
+  "class_names": [
+    "air_conditioner",
+    "car_horn",
+    "children_playing",
+    "dog_bark",
+    "drilling",
+    "engine_idling",
+    "gun_shot",
+    "jackhammer",
+    "siren",
+    "street_music"
+  ],
+  "seed": 42,
+  "mean": -42.301918029785156,
+  "std": 20.748252868652344
+}
